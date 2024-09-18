@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Nalipas/Book-Search-Engine">
-    <img src="./assets/images/bear.png" alt="Logo" width="80" height="80">
+    <img src="https://media.tenor.com/q1A3UVgCQC0AAAAi/pepega-reading.gif" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Book Search Engine</h3>
