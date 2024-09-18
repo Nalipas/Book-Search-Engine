@@ -1,6 +1,3 @@
-# Book-Search-Engine
- A full stack application using Google Books Search API.
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <div align="center">
@@ -21,10 +18,10 @@
     <img src="./assets/images/bear.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Berkeley Extension Coding Bootcamp Alumni Center</h3>
+<h3 align="center">Book Search Engine</h3>
 
   <p align="center">
-    A place for Alumni to network!
+    A full stack application using Google Books Search API.
     <br />
     <a href="https://github.com/Nalipas/Book-Search-Engine"><strong>Explore the docs »</strong></a>
     <br />
@@ -181,9 +178,7 @@ if (process.env.NODE_ENV === 'production') {
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The application can be run locally, or you can head to Render(LINK) to see the applicaiton hosted on a server.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+The application can be run locally, or in your browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,12 +214,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Barrett Mistele - [@Nalipas](https://github.com/Nalipas) - bear.mistele@gmail.com <br>
-Bradley Ragonese - [@bragonese1](https://github.com/bragonese1) - ragonesebradley@gmail.com <br>
-Hunter Thompson - [@hunterthompson025](https://github.com/hunterthompson025) - hunterthompson025@gmail.com <br>
-Paul Price - [@ptprice](https://github.com/ptprice) - ptprice@gmail.com <br>
 Steven Moreno - [@Nalipas](https://github.com/Nalipas) - smoreno2014@gmail.com <br>
-Travis McDermott - [@tjmcd2010](https://github.com/tjmcd2010) - tjmcd2010@gmail.com <br>
 
 Project Link: [https://github.com/Nalipas/Book-Search-Engine](https://github.com/Nalipas/Book-Search-Engine)<br>
 Deployed Project: [https://Book-Search-Engine.onrender.com/](https://Book-Search-Engine.onrender.com/)
