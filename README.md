@@ -90,7 +90,7 @@ The Berkeley Extension Coding Bootcamp Alumni Center is a web application which 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how to get the project running on your local machine. Alternatively, the application is hosted on Render(LINK).
+This is an example of how to get the project running on your local machine. Alternatively, the application is hosted on [Render(LINK).](https://book-search-engine-yin6.onrender.com)
 
 ### Prerequisites
 
@@ -162,7 +162,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Steven Moreno - [@Nalipas](https://github.com/Nalipas) - smoreno2014@gmail.com <br>
 
 Project Link: [https://github.com/Nalipas/Book-Search-Engine](https://github.com/Nalipas/Book-Search-Engine)<br>
-Deployed Project: [https://Book-Search-Engine.onrender.com/](https://Book-Search-Engine.onrender.com/)
+Deployed Project: [https://Book-Search-Engine.onrender.com/](https://Book-Search-Engine.onrender.com/)](https://book-search-engine-yin6.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
