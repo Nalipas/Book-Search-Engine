@@ -66,9 +66,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="./public/GoogleBooksSearch1.png">
 
-The Berkeley Extension Coding Bootcamp Alumni Center is a web application which acts as a social network for Alumni of the Coding Bootcamp hosted at the UC Berkeley Extension. Here, Alumni can connect by sharing their experiences and contact information with each other through user profiles and thought posting.
+The Books Search Engine uses the Google Books Search API to find and display search results of books based on user query.
+
+<img src="./public/GoogleBooksSearch2.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +92,7 @@ The Berkeley Extension Coding Bootcamp Alumni Center is a web application which 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how to get the project running on your local machine. Alternatively, the application is hosted on [Render(LINK).](https://book-search-engine-yin6.onrender.com)
+This is an example of how to get the project running on your local machine. Alternatively, the application is hosted on Render [https://Book-Search-Engine.onrender.com/](https://Book-Search-Engine.onrender.com/).
 
 ### Prerequisites
 
@@ -123,7 +125,8 @@ This is an example of how to get the project running on your local machine. Alte
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The application can be run locally, or in your browser.
+The application can be run locally, or in your browser on https://book-search-engine-yin6.onrender.com
+<img src="./public/GoogleBooksSearch3.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,7 +165,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Steven Moreno - [@Nalipas](https://github.com/Nalipas) - smoreno2014@gmail.com <br>
 
 Project Link: [https://github.com/Nalipas/Book-Search-Engine](https://github.com/Nalipas/Book-Search-Engine)<br>
-Deployed Project: [https://Book-Search-Engine.onrender.com/](https://Book-Search-Engine.onrender.com/)](https://book-search-engine-yin6.onrender.com)
+Deployed Project: https://book-search-engine-yin6.onrender.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
