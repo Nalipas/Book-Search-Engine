@@ -117,7 +117,7 @@ This is an example of how to get the project running on your local machine. Alte
     npm run seed
 4. Run the application.
     ```sh
-    npm run start
+    npm run develop
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
