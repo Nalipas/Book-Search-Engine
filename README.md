@@ -92,7 +92,7 @@ The Books Search Engine uses the Google Books Search API to find and display sea
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how to get the project running on your local machine. Alternatively, the application is hosted on Render [https://Book-Search-Engine.onrender.com/](https://Book-Search-Engine.onrender.com/).
+This is an example of how to get the project running on your local machine. Alternatively, the application is hosted on <a href="https://book-search-engine-yin6.onrender.com">Render</a>.
 
 ### Prerequisites
 
@@ -125,7 +125,7 @@ This is an example of how to get the project running on your local machine. Alte
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The application can be run locally, or in your browser on https://book-search-engine-yin6.onrender.com
+The application can be run locally, or in your browser on <a href="https://book-search-engine-yin6.onrender.com">Render</a>.
 <img src="./public/GoogleBooksSearch3.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
